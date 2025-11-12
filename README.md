@@ -25,11 +25,11 @@ TMMC is a maximum margin clustering approach based on the Top-k loss and deals w
 
 ## 3. Citation
 
-Please cite our paper if you find the work useful:
+Please cite our paper if you find the work useful:  
 
-@article{xiao2025_TMMC,
-author={Yanshan Xiao, Chaoyu Chen, Qiongli Zheng, Bo Liu, and Zhifeng Hao},
-journal={IEEE Transactions on Neural Networks and Learning Systems},
-title={Top-k Maximum Margin Clustering},
-year={2025}
+@article{xiao2025_TMMC,  
+author={Yanshan Xiao, Chaoyu Chen, Qiongli Zheng, Bo Liu, and Zhifeng Hao},  
+journal={IEEE Transactions on Neural Networks and Learning Systems},  
+title={Top-k Maximum Margin Clustering},  
+year={2025}  
 }
